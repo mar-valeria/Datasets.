@@ -1,3 +1,4 @@
+[Dieta.csv](https://github.com/user-attachments/files/24247419/Dieta.csv)
 "Alimento;Energia(kcal);Proteina(g);Calcio(mg);Precio;Porcion max;"
 "Harina de avena;110;4;2;3;4;"
 "Pollo;205;32;12;24;3;"
